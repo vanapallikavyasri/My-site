@@ -1,0 +1,18 @@
+body{
+    background-color:cyan
+}
+hr{
+    border-style:dotted none none none;
+    width:50%;
+    border-width:5px;
+
+}
+h1,h3{
+    color:blue;
+
+}
+img{
+    border-width:2px;
+    border-color:black;
+
+}
